@@ -3,9 +3,9 @@ Python API Projects
 
 This repository contains beginner-to-intermediate Python projects built while learning APIs using the requests library.
 
-Projects:
-• Weather CLI
-• Currency Converter
+Projects:<br>
+• Weather CLI<br>
+• Currency Converter<br>
 • Pokémon Information CLI
 
 Concepts Covered:
